@@ -2,10 +2,12 @@
 Exercise 1: Problem Statement on Design patterns
 
 1.	Two use cases to demonstrate two behavioural design pattern
+2.	------------------
     **Observer**
   	**Strategy**
+  	-----------------
 
-2.	Two use cases to demonstrate two creational design pattern
+4.	Two use cases to demonstrate two creational design pattern
    **Factory**
    **Singleton**
 
