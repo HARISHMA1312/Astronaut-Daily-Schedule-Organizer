@@ -1,16 +1,21 @@
 # Astronaut-Daily-Schedule-Organizer
-Exercise 1: Problem Statement on Design patterns
+# EXERCISE 1 - Problem Statement on Design patterns
 
-1.	Two use cases to demonstrate two behavioural design pattern
-   ------------------
-    **Observer**
-  	**Strategy**
-  	-----------------
+Two use cases to demonstrate two **behavioural** design patterns.
 
-4.	Two use cases to demonstrate two creational design pattern
-   **Factory**
-   **Singleton**
+* **Observer**
+* **Strategy**
 
-3.Two use cases to demonstrate two structural design pattern
-  **Adaptor**
-  **Decorator**
+---
+
+Two use cases to demonstrate two **creational** design patterns.
+
+* **Factory**
+* **Singleton**
+
+---
+
+Two use cases to demonstrate two **structural** design patterns.
+
+* **Adaptor**
+* **Decorator**
