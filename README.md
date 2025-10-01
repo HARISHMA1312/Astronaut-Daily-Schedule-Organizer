@@ -51,7 +51,7 @@ This system leverages three foundational design patterns to manage complexity an
     * **Applied to:** `TaskObserver` and `ConflictNotifier` observing `ScheduleManager`
     * **Purpose:** Establishes a one-to-many relationship, allowing the **`ScheduleManager`** to automatically notify the **`ConflictNotifier`** when a relevant state change (like a scheduling conflict) occurs.
 
-## 🌟 Core Features
+# Core Features
 
 This Astronaut Task Scheduling System provides the following functionalities:
 
@@ -61,6 +61,8 @@ This Astronaut Task Scheduling System provides the following functionalities:
 * **Prioritize** tasks (High / Medium / Low)
 * **Detect and notify conflicts**
 * Simple **Swing UI** for adding and managing tasks
+  <img width="924" height="360" alt="image" src="https://github.com/user-attachments/assets/f9dae715-5ddb-4b9d-80bd-752c4036a0b4" />
+
 
 
 
