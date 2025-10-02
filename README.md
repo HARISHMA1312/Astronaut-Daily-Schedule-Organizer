@@ -49,7 +49,7 @@ The Astronaut Task Scheduling System simulates managing and scheduling astronaut
 3.  **Observer Pattern**
     * **Applied to:** `TaskObserver` and `ConflictNotifier` observing `ScheduleManager`
     * **Purpose:** Establishes a one-to-many relationship, allowing the **`ScheduleManager`** to automatically notify the **`ConflictNotifier`** when a relevant state change (like a scheduling conflict) occurs.
-
+---
 # Core Features
 
 This Astronaut Task Scheduling System provides the following functionalities:
@@ -59,6 +59,7 @@ This Astronaut Task Scheduling System provides the following functionalities:
 * **View** all tasks sorted by start time
 * **Prioritize** tasks (High / Medium / Low)
 * **Detect and notify conflicts**
+---
 
 # Output
 
