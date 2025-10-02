@@ -6,19 +6,20 @@ Two use cases to demonstrate two **behavioural** design patterns.
 * **Observer**
 * **Strategy**
 
----
+
 
 Two use cases to demonstrate two **creational** design patterns.
 
 * **Factory**
 * **Singleton**
 
----
+
 
 Two use cases to demonstrate two **structural** design patterns.
 
 * **Adaptor**
 * **Decorator**
+---
 # EXERCISE 2: 1. Astronaut Daily Schedule Organizer Programming Exercise
 
 The Astronaut Task Scheduling System simulates managing and scheduling astronaut tasks in space missions. Tasks can be created, prioritized, and scheduled. The system notifies astronauts if there are conflicts and ensures efficient management.
